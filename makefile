@@ -1,4 +1,4 @@
-.PHONY: all llinit test
+.PHONY: all init test
 
 all: init test
 
